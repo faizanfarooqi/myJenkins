@@ -12,7 +12,7 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.BatchFile>
-      <command>echo this job will be sent to jenkins 2</command>
+      <command>echo hi</command>
     </hudson.tasks.BatchFile>
   </builders>
   <publishers/>
